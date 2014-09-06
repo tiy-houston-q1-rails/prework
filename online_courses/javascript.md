@@ -10,4 +10,4 @@ _This can get daunting; you'll want to know the advanced sections as you journey
 * Javascript Road Trip Part 2
 * jQuery the return flight
 
-![yavascript](/images/javascript-path.png)
+![yavascript](images/javascript-path.png)

@@ -3,7 +3,7 @@ Ruby Off Rails
 
 I personally created and taught an online course dedicated to learning Ruby, [Ruby Off Rails](https://rubyoffrails.com/dashboard). It is free and open source.
 
-![rubyoffrails](/images/ruby-off-rails.png)
+![rubyoffrails](images/ruby-off-rails.png)
 
 I recommend the following screencasts:
 

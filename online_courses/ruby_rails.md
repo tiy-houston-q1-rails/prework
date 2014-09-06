@@ -13,4 +13,4 @@ _The following can be overwhelming. Here's the courses I'd *like* you to do. The
 * Rails for zombies 2
 
 
-![ruby/rails](/images/ruby-path.png)
+![ruby/rails](images/ruby-path.png)

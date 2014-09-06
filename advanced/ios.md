@@ -5,4 +5,4 @@ Many of you have expressed interested in creating Mobile apps and games after yo
 
 [IOS Path](https://www.codeschool.com/paths/ios)
 
-![ios](/images/ios.png)
+![ios](images/ios.png)

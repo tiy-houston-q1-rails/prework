@@ -6,4 +6,4 @@ We use Chrome DevTools basically everyhour of everyday. You can inspect elements
 > Learn how Chrome DevTools can sharpen your dev process and discover the tools that can optimize your workflow and make life easier.
 
 
-![devtools](/images/devtools.png)
+![devtools](images/devtools.png)
