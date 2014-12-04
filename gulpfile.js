@@ -1,7 +1,10 @@
 var gulp = require('gulp');
-var deploy = require("gulp-gh-pages");
+//var deploy = require("gulp-gh-pages");
+
+var ghpages = require('gh-pages');
+var path = require('path');
+
 
 gulp.task('deploy', function () {
-    gulp.src("./_book/**/*", "./_book/*/**")
-        .pipe(deploy({}))
+  ghpages.publish(path.join(__dirname, '_book'), function(err) { });
 });
