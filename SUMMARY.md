@@ -3,8 +3,6 @@
   * [Eloquent Ruby](books/eloquent_ruby.md)
 * Online Courses
   * [HTML/CSS with Dash](online_courses/dash.md)
-  * [Codeschool Setup](online_courses/codeschool.md)
-  * [Ruby & Rails](online_courses/ruby_rails.md)
-  * [JavaScript](online_courses/javascript.md)
-  * [RubyOffRails](online_courses/rubyoffrails.md)
-  * [Git](online_courses/git.md)
+  * [Try Ruby](online_courses/try_ruby.md)
+* Go Further
+  * [Ruby Off Rails](online_courses/rubyoffrails.md)
